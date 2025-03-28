@@ -8,7 +8,7 @@
 // </auto-generated>
 //------------------------------------------------------------------------------
 
-namespace Module1Bai4_Lý_Minh_Thư.Properties
+namespace Module1Bai4._1_Lý_Minh_Thư.Properties
 {
 
 

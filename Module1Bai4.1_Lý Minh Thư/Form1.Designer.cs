@@ -1,4 +1,4 @@
-﻿namespace Module1Bai5_Lý_Minh_Thư
+﻿namespace Module1Bai4._1_Lý_Minh_Thư
 {
     partial class Form1
     {

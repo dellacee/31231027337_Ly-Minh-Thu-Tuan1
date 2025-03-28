@@ -8,7 +8,7 @@
 // </auto-generated>
 //------------------------------------------------------------------------------
 
-namespace Module1Bai4_Lý_Minh_Thư.Properties
+namespace Module1Bai4._1_Lý_Minh_Thư.Properties
 {
 
 
@@ -44,7 +44,7 @@ namespace Module1Bai4_Lý_Minh_Thư.Properties
             {
                 if ((resourceMan == null))
                 {
-                    global::System.Resources.ResourceManager temp = new global::System.Resources.ResourceManager("Module1Bai4_Lý_Minh_Thư.Properties.Resources", typeof(Resources).Assembly);
+                    global::System.Resources.ResourceManager temp = new global::System.Resources.ResourceManager("Module1Bai4._1_Lý_Minh_Thư.Properties.Resources", typeof(Resources).Assembly);
                     resourceMan = temp;
                 }
                 return resourceMan;

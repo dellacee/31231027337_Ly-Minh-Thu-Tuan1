@@ -4,7 +4,7 @@ using System.Linq;
 using System.Threading.Tasks;
 using System.Windows.Forms;
 
-namespace Module1Bai4_Lý_Minh_Thư
+namespace Module1Bai4._1_Lý_Minh_Thư
 {
     internal static class Program
     {
@@ -16,7 +16,7 @@ namespace Module1Bai4_Lý_Minh_Thư
         {
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
-            Application.Run(new frmChangeMoney());
+            Application.Run(new Form1());
         }
     }
 }

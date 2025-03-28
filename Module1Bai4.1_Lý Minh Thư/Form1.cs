@@ -8,7 +8,7 @@ using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
 
-namespace Module1Bai5_Lý_Minh_Thư
+namespace Module1Bai4._1_Lý_Minh_Thư
 {
     public partial class Form1 : Form
     {
