@@ -4,7 +4,7 @@ using System.Linq;
 using System.Threading.Tasks;
 using System.Windows.Forms;
 
-namespace Module1Bai6_Lý_Minh_Thư
+namespace Module1Bai6._1_Lý_Minh_Thư
 {
     internal static class Program
     {
