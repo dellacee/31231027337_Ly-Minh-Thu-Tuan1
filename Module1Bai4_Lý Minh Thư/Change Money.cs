@@ -10,9 +10,9 @@ using System.Windows.Forms;
 
 namespace Module1Bai4_Lý_Minh_Thư
 {
-    public partial class Form1 : Form
+    public partial class frmChangeMoney : Form
     {
-        public Form1()
+        public frmChangeMoney()
         {
             InitializeComponent();
         }

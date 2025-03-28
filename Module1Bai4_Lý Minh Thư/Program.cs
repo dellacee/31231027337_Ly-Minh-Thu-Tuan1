@@ -16,7 +16,7 @@ namespace Module1Bai4_Lý_Minh_Thư
         {
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
-            Application.Run(new Form1());
+            Application.Run(new frmChangeMoney());
         }
     }
 }
